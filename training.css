@@ -2,7 +2,7 @@ header{
     margin:0 auto;
     width:1200px;
     height:230px;
-    background-color: red;
+ 
     cursor: pointer;
   }
   .nav{
@@ -61,4 +61,18 @@ header{
   }
   p{
       font-family: 'Share Tech Mono', monospace;
+  }
+  body{
+    background-image: url(images/resume.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #ap{
+    float: right;
+  }
+  #aps{
+    float: right;
+  }
+  #scores{
+    float: right;
   }

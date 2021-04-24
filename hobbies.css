@@ -2,7 +2,7 @@ header{
     margin:0 auto;
     width:1200px;
     height:230px;
-    background-color: red;
+    
     cursor: pointer;
   }
   .nav{
@@ -58,9 +58,12 @@ header{
   h1{
       text-align: center;
       font-family: 'Share Tech Mono', monospace;
+      color: white;
   }
   p{
       font-family: 'Share Tech Mono', monospace;
+      color: antiquewhite;
+      text-align: center;
   }
   body{
     width:1680px;
@@ -71,4 +74,12 @@ header{
   #header{
       text-align: center;
   }
+  .row {
+    display: flex;
+  }
   
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+

@@ -2,7 +2,7 @@ header{
     margin:0 auto;
     width:1200px;
     height:230px;
-    background-color: red;
+  
     cursor: pointer;
   }
   .nav{
@@ -66,11 +66,11 @@ header{
       background-image: url("images/contact.png");
       background-size: cover;
   }
-  .center {
+  p, summary {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 200px;
-    border: 3px solid green;
+    height: 50px;
+    border: green;
   }
   

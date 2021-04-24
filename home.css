@@ -4,7 +4,7 @@ header{
   margin:0 auto;
   width:1200px;
   height:230px;
-  background-color: red;
+  
   cursor: pointer;
 }
 .nav{
@@ -14,9 +14,6 @@ header{
 }
 #one{
   background-color: rgb(208,101,3);
-}
-#two{
-  background-color: rgb(233,147,26);
 }
 #three{
   background-color: rgb(22,145,190);
